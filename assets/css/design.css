@@ -19,7 +19,7 @@ body{
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-    background: linear-gradient(deeppink, purple);
+    background: linear-gradient(#999, #111);
     padding:5.5rem;
 }
 
@@ -231,15 +231,15 @@ header .navbar ul li a:hover{
 }
 
 .about .skills .progress:nth-child(1) .bar span{
-    width:95%;
+    width:75%;
 }
 
 .about .skills .progress:nth-child(2) .bar span{
-    width:85%;
+    width:35%;
 }
 
 .about .skills .progress:nth-child(3) .bar span{
-    width:65%;
+    width:50%;
 }
 
 .about .skills .progress:nth-child(4) .bar span{
